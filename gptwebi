@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+
+bun run gptwebi.cjs "$@"
